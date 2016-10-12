@@ -2,6 +2,10 @@
 
 这两天也体验了下开发微信小程序,由于最近打算自学下日语所以试着写个纯静态展示的五十音图,只是个没什么技术含量的小页面而已.主要出于体验这个还算挺火的小程序,和巩固下五十音的目的随手玩儿下,总之 どうぞよろしくお愿いいたします~ 哈哈
 
+![index](https://raw.githubusercontent.com/5Mi/weChat-app-gojuonn/master/files/gojuonn-index.png)
+
+![gojuonn](https://raw.githubusercontent.com/5Mi/weChat-app-gojuonn/master/files/gojuonn-seionn.png)
+
 下来的感受就是 开发这个小程序: 
 
 * 一定要在微信(腾讯)的框架下,用他的api,组件和开发工具才能进行开发,开发体验其实不是很好
@@ -15,4 +19,4 @@
 
 >logs页面没用,utils,widget也没用上,总之和示例demo差不多
 
->灵感来自使用过的 **日语学习** app 就是那个"勉强日语~"
+>灵感来自使用过的 **日语学习** app 就是那个"勉强日语~" 用来记五十音图真的很好用
