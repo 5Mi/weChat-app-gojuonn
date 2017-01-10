@@ -1,6 +1,6 @@
 <import src="../../widget/footTabBar.wxml"/>
-<view class="container">
-    <view class="mojicontainer" style="max-height:{{minHeight - 50}}px;">
+<view >
+    <view class="mojicontainer" style="height:{{minHeight - 50}}px;">
         <view class="mojidiv {{sannbunn?'sannbunn':''}}" wx:for="{{mojiList}}">
             <view class="moji-gana" wx:if="{{hiraganaShow}}">{{item.hiragana}}</view>
             <view class="moji-gana" wx:else>{{item.katakana}}</view>
